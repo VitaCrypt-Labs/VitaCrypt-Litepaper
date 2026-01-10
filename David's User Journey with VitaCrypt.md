@@ -1,9 +1,9 @@
-## David's User Journey with IDA
+## David's User Journey with VitaCrypt
 
 David, a 25-year-old living in Los Angeles, faces unique health challenges shaped by his environment, genetics, and lifestyle. High levels of fine particulate matter (PM2.5) in the city’s air and his genetic predisposition to inflammation and cardiovascular issues place him in a "sensitive" group. Chronic stress further disrupts his gut microbiome, leading to deficiencies in essential nutrients like B vitamins, which his body struggles to absorb efficiently due to genetic markers.
 
-### The Role of IDA
-Using the IDA app, David learns about his health risks through:
+### The Role of VitaCrypt
+Using the VitaCrypt app, David learns about his health risks through:
 1. **Genetic Analysis:** Revealing vulnerabilities like poor B vitamin absorption and Omega-3 synthesis.
 2. **Nutrient Tracking:** Highlighting deficiencies, such as DHA and EPA, through integrations with third-party apps and clinical tests.
 3. **Environmental Monitoring:** Assessing air quality in his living spaces and frequent locations, including exposure to traffic emissions.
@@ -17,4 +17,4 @@ The app provides actionable guidance tailored to David’s needs:
 ### Ongoing Support
 IDA’s continuous monitoring system tracks David’s key health indicators, sets triggers for changes in environmental factors like PM2.5 levels, and sends alerts with actionable advice. The app also provides educational resources to help David make informed decisions about his health.
 
-By following IDA’s personalized plan, David improves his energy levels, reduces inflammation, and proactively manages his long-term well-being.
+By following VitaCrypt’s personalized plan, David improves his energy levels, reduces inflammation, and proactively manages his long-term well-being.
