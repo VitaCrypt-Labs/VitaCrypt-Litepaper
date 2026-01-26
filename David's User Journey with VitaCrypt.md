@@ -15,6 +15,6 @@ The app provides actionable guidance tailored to David’s needs:
 - **Environmental Changes:** Installing a HEPA filter, wearing masks on high-pollution days, and spending more time in nature.
 
 ### Ongoing Support
-IDA’s continuous monitoring system tracks David’s key health indicators, sets triggers for changes in environmental factors like PM2.5 levels, and sends alerts with actionable advice. The app also provides educational resources to help David make informed decisions about his health.
+VitaCrypt continuous monitoring system tracks David’s key health indicators, sets triggers for changes in environmental factors like PM2.5 levels, and sends alerts with actionable advice. The app also provides educational resources to help David make informed decisions about his health.
 
 By following VitaCrypt’s personalized plan, David improves his energy levels, reduces inflammation, and proactively manages his long-term well-being.
