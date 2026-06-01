@@ -30,7 +30,7 @@ Fully Homomorphic Encryption allows computation on encrypted data without ever d
 ## Related
 
 - Product site: [vitacrypt.xyz](https://vitacrypt.xyz)
-- Landing repo: [vitacrypt-landing](https://github.com/PaulBurgEth/vitacrypt-landing)
+- Landing repo: [vitacrypt-landing](https://github.com/VitaCrypt-Labs/vitacrypt-landing)
 - Waitlist: on the site
 
 ## License
